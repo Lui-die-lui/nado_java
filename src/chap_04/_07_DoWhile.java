@@ -1,6 +1,6 @@
 package chap_04;
 
-public class _04_DoWhile {
+public class _07_DoWhile {
     public static void main(String[] args) {
 
     // 반복문 DoWhile
